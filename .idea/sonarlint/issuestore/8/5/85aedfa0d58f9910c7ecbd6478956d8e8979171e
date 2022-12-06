@@ -1,0 +1,8 @@
+
+9
+java:S1643"Use a StringBuilder instead.(ôµÄÕ8°Æ½şÇ0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ
+6
+java:S2129
+" Remove this "String" constructor(Óïó‡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†ÒËñüÿÿÿÿ
