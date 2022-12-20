@@ -4,9 +4,12 @@
 #Top Springboot Interview que: https://www.youtube.com/watch?v=mStYBY5-ddQ
 #java8 interview que: https://www.youtube.com/watch?v=oUdENE7ljjw
 #Java8 Interview que PlayList: https://www.youtube.com/watch?v=oUdENE7ljjw&list=PLyHJZXNdCXsdeusn4OM33415DCMQ6sUKy&index=1
+spring interview question: https://www.youtube.com/watch?v=BdAIx9LTuG4
+J2EE interview question: https://www.youtube.com/watch?v=dlI3QhhSzNg&list=PLJhTUITMttBMJymupBRNZky37aRIZPhFV&index=6
 
 
 
+#top 65 sql interview que: https://www.youtube.com/watch?v=-WEpWH1NHGU&t=240s
 
 
 
