@@ -1,0 +1,21 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÙİ
+q
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ˆÂºüÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ˆÂºüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢€©•
+V	java:S125"<This block of commented-out lines of code should be removed.(ˆÂºüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ãİ‹V
+k
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ŸÃô
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(•Õ¨ì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€œ
+w
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(¼£ëùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÂƒˆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô ÓÏ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üƒ§éøÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å

@@ -1,5 +1,8 @@
 package com.Java8more;
+import java.util.Collections;
 import java.util.function.Consumer;
+import java.util.stream.Collectors;
+
 public class ConsumerAndChaining {
     public static void main(String[] args){
         Consumer<Integer> consumer = x -> System.out.println("Double of consumed value: " + x*2);

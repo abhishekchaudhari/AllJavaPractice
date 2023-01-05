@@ -1,0 +1,5 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÙÝ
+L
+java:S1612	"6Replace this lambda with method reference 'Date::new'.(ÔÓí–
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó³¢ðûÿÿÿÿ

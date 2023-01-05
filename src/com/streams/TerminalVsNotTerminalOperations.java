@@ -20,6 +20,31 @@ public class TerminalVsNotTerminalOperations {
         Employee e3 = new Employee(3, "code3");
         Employee e4 = new Employee(4, "code4");
 
+        //Sort on name
+        List<Employee> employeeList = new ArrayList<>();
+        employeeList.add(e4);
+        employeeList.add(e3);
+        employeeList.add(e1);
+        employeeList.add(e2);
+        employeeList.forEach(c -> System.out.println(c.getName()));
+//        Collections.sort(employeeList, new Comparator<Employee>() {
+//            @Override
+//            public int compare(Employee o1, Employee o2) {
+//                return o1.getName().compareTo(o2.getName());
+//            }
+//        });
+//        employeeList.forEach(c -> System.out.println(c.getName()));
+        List<Employee> collect = employeeList.stream().sorted((x,y) -> x.getName().compareTo(y.getName()))
+//                .sorted(new Comparator<Employee>() {
+//            @Override
+//            public int compare(Employee o1, Employee o2) {
+//                return o1.getName().compareTo(o2.getName());
+//            }
+//        })
+        .collect(Collectors.toList());
+        collect.forEach(c -> System.out.println(c.getName()));
+
+
         //Function use on object
         Function<Employee,String> employeeName = y -> y.getName();
         System.out.println("employeeName by Function: " + employeeName.apply(e1));;

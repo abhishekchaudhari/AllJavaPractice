@@ -1,14 +1,0 @@
-
-I
-java:S1612"3Replace this lambda with method reference 's::add'.(ÒÚ³™
-S
-java:S1612"8Replace this lambda with method reference 's::contains'.(è’íïþÿÿÿÿ
-[
-java:S1612"@Replace this lambda with method reference 'System.out::println'.(è’íïþÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(è’íïþÿÿÿÿ
-I
-java:S1612"3Replace this lambda with method reference 's::add'.(ÒÚ³™
-N
-java:S1612"3Replace this lambda with method reference 's::add'.(•…çûùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô· Ã
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(œÂ‰Äùÿÿÿÿ8áþê­Ë0

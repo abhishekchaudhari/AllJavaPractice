@@ -1,15 +1,23 @@
+#Videos
 #Multithreadin Interview que: https://www.youtube.com/watch?v=bHU4gDsDHLA
 #IMP java programs for interview: https://www.youtube.com/watch?v=mCmrrH_WDTs
 #Java collection framework: https://www.youtube.com/watch?v=GdAon80-0KA
 #Top Springboot Interview que: https://www.youtube.com/watch?v=mStYBY5-ddQ
 #java8 interview que: https://www.youtube.com/watch?v=oUdENE7ljjw
 #Java8 Interview que PlayList: https://www.youtube.com/watch?v=oUdENE7ljjw&list=PLyHJZXNdCXsdeusn4OM33415DCMQ6sUKy&index=1
-spring interview question: https://www.youtube.com/watch?v=BdAIx9LTuG4
-J2EE interview question: https://www.youtube.com/watch?v=dlI3QhhSzNg&list=PLJhTUITMttBMJymupBRNZky37aRIZPhFV&index=6
+#spring interview question: https://www.youtube.com/watch?v=BdAIx9LTuG4
+#J2EE interview question: https://www.youtube.com/watch?v=dlI3QhhSzNg&list=PLJhTUITMttBMJymupBRNZky37aRIZPhFV&index=6
+#sql interview questions: https://www.youtube.com/watch?v=pKFo8Mqp-cU
+
+#Sites
+#60+ Java 8 Interview Questions And Answers: https://javaconceptoftheday.com/java-8-interview-questions-and-answers/
+#70+ java collection: https://javaconceptoftheday.com/java-collections-interview-questions-with-answers/
+#core java interview que: https://www.interviewbit.com/java-interview-questions/
 
 
 
 #top 65 sql interview que: https://www.youtube.com/watch?v=-WEpWH1NHGU&t=240s
+#sql theory and practical que: https://www.youtube.com/watch?v=L-URbfgxBMQ
 
 
 
