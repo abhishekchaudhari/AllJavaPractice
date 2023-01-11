@@ -17,6 +17,11 @@
 #sql interview question: https://www.interviewbit.com/sql-interview-questions/
 #sql interview question(optional): https://www.javatpoint.com/sql-interview-questions
 
+#spring boot: https://www.interviewbit.com/spring-boot-interview-questions/
+#spring boot: https://www.javatpoint.com/spring-boot-interview-questions
+#springframework(optional): https://www.javatpoint.com/spring-interview-questions
+#springframework(optional): https://www.interviewbit.com/spring-interview-questions/
+
 
 #top 65 sql interview que: https://www.youtube.com/watch?v=-WEpWH1NHGU&t=240s
 #sql theory and practical que: https://www.youtube.com/watch?v=L-URbfgxBMQ
