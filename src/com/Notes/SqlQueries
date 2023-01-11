@@ -1,0 +1,13 @@
+#CREATE DATABASE IF NOT EXISTS newDB;
+#USE newDB;
+#CREATE TABLE newTable(ID INT NOT NULL,
+                        name VARCHAR(50) NOT NULL,
+                        location VARCHAR(250));
+--what is sql query used to find duplicate rows in table?
+#select name, count(*) from employee group by name having count(*) > 1;
+--what is sql query used to delete duplicate rows in table?
+#delete e1 from employee e1 inner join employee e2 where e1.id < e2.id and e1.name = e2.name;
+#delete e1 from employee e1 inner join employee e2 on (e1.name = e2.name) where e1.id < e2.id;
+
+--how will u change the data type of a column?
+#alter table employee modify manager_id BIGINT;

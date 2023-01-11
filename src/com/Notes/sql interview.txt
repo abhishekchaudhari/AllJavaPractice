@@ -1,0 +1,40 @@
+>select salary from employee order by salary desc limit 2,1;
+>select *,count(empId) from employee group by empId having count(empId) > 1;
+
+>SELECT * FROM employee WHERE MOD(empId,2) =0;  //Even
+>SELECT * FROM employee WHERE MOD(empId,2) =1;  //Odd
+
+>SELECT * FROM employee WHERE empId = (SELECT MIN(empId) FROM employee);
+>SELECT * FROM employee WHERE empId = (SELECT MAX(empId) FROM employee);
+
+>CREATE TABLE newEmployee AS SELECT * FROM employee;
+>CREATE TABLE newEmployee AS SELECT * FROM employee WHERE 3=4;
+
+>SELECT * FROM employee WHERE empName LIKE "_A%";
+
+
+
+
+select salary from employee order by salary desc limit 
+1,2;
+
+String reverseString = "";
+
+for(int i=str.length()-1; i<0; i--){
+	reverseString += str.chatAt(i);
+}
+return reverseString;
+
+
+arrayList.stream().filter(ele -> !ele.getDepartment()
+     	.contains("HR")).collect(Collectors.toList());
+
+
+
+CREATE INDEX index_name ON employee(employeeId);
+DROP INDEX index_name ON employee;
+
+SELECT * FROM tableCountry INNER JOIN tableState ON tableCountry.countryId = tableState.countryId;
+SELECT * FROM tableCountry RIGHT JOIN tableState ON tableCountry.countryId = tableState.countryId;
+SELECT * FROM tableCountry LEFT JOIN tableState ON tableCountry.countryId = tableSTate.countryId;
+SELECT * FROM tableCountry FULL OUTER JOIN tableState ON tableCountry.countryId = tableState.countryId;

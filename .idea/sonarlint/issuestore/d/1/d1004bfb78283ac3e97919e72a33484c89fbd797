@@ -1,0 +1,28 @@
+
+h
+java:S3655G"RCall "maxNumber.isPresent()" or "!maxNumber.isEmpty()" before accessing the value.(ÄŠ‡ø
+f
+java:S3655I"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(şÈÌø
+P
+java:S1854;";Remove this useless assignment to local variable "intList".(Ò€áV
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¾œüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ö’ÔÛ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(Ï•Ğ˜
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Ğİ™°ÿÿÿÿÿ
+Y
+java:S16121">Replace this lambda with method reference 'Employee::getName'.(ïˆ½İşÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ÿË¾
+2
+java:S11162"Remove this empty statement.(ÿË¾
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(·†œ±
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ˆıå³ıÿÿÿÿ
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(«¹£
+Q	java:S125:"<This block of commented-out lines of code should be removed.(…øĞ¶
+A
+java:S1481;",Remove this unused "intList" local variable.(Ò€áV
+F
+java:S2201D"+The return value of "collect" must be used.(¾±¥¼úÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(¢®±³úÿÿÿÿ
+V	java:S125D"<This block of commented-out lines of code should be removed.(¾±¥¼úÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ÄŠ‡ø
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(©ÚœÈ

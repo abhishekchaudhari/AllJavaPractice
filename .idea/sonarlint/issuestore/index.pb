@@ -15,10 +15,6 @@ W
 'src/com/collections/reapetedString.java,2\6\268c0465d0e7d011babdeabc2ab9ece868a3376a
 [
 +src/com/leetcode/ReverseVowelsInString.java,2\9\29e7bc69f95d5ceb75a0f95d36c5348f753a2aa8
-O
-src/com/practise/MainClass.java,b\6\b6425927dc9620e42b672b1a415c5aef08ba3d07
-Q
-!src/com/practise/ObjectClass.java,7\1\71360f4e453f3d0f0b8458248716844c04178b54
 Z
 *src/com/string/DivideStringIntoNparts.java,0\2\02009519f3d31fcb40ce213ecc8a1d52f122fe0c
 _
@@ -29,11 +25,31 @@ W
 +src/com/Java8more/FunctionAndPredicate.java,d\3\d39d14713fa1259a193652fba109b22759068d19
 S
 #src/com/Java8more/SupplierUses.java,2\9\2957c6d61ab9b3e8287786cea2dc95cbc9d9b740
-_
-/src/com/Java8more/BiFunctionAndBiPredicate.java,1\a\1a121b232e5418f2e18f3e5e68ef7b69b800cc65
 O
 src/com/streams/BiConsumer.java,c\2\c299cef02942a362b2b3ae6a9e85257c0718340e
 Z
 *src/com/Java8more/ConsumerAndChaining.java,5\2\521554198b8f6aa44a65ff84d4a8bf1584b2aed0
 M
 src/com/practise/Problem.java,6\6\66451d9a22d6d599ac49d51fcb1e93ad41fdb679
+Q
+!src/com/practise/ObjectClass.java,7\1\71360f4e453f3d0f0b8458248716844c04178b54
+M
+src/com/streams/Employee.java,b\a\ba41727368483d37a2375510ad4c269f103b60a6
+[
++src/com/streams/RefactorCodeUsingJava8.java,0\1\0155cca144b7212c7b64b60cec6465b504133710
+T
+$src/com/streams/StreamSkipLimit.java,6\f\6fe9d2a4bfdd4cb92067b936a02787095b988878
+d
+4src/com/streams/TerminalVsNotTerminalOperations.java,d\1\d1004bfb78283ac3e97919e72a33484c89fbd797
+[
++src/com/streams/NewStreamPracticeClass.java,d\b\db3f7811b0bb5b1cb5018c0868f464cdf03caf78
+W
+'src/com/streams/CountWordOccurance.java,4\7\47e6c7ec2fd58d22cf0e0fb03d2596c4683b38e9
+]
+-src/com/streams/DuplicateIntegersInArray.java,b\e\be428351202344da1fe99336e00a51e2537d727b
+O
+src/com/practise/MainClass.java,b\6\b6425927dc9620e42b672b1a415c5aef08ba3d07
+F
+src/com/Notes/Path.txt,4\8\48bee8f8d5858055cc91b96ecc137960ea3b69ee
+_
+/src/com/Java8more/BiFunctionAndBiPredicate.java,1\a\1a121b232e5418f2e18f3e5e68ef7b69b800cc65

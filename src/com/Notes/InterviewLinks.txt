@@ -12,8 +12,10 @@
 #Sites
 #60+ Java 8 Interview Questions And Answers: https://javaconceptoftheday.com/java-8-interview-questions-and-answers/
 #70+ java collection: https://javaconceptoftheday.com/java-collections-interview-questions-with-answers/
+#400+ java interview que: https://javaconceptoftheday.com/java-interview-questions-and-answers/
 #core java interview que: https://www.interviewbit.com/java-interview-questions/
-
+#sql interview question: https://www.interviewbit.com/sql-interview-questions/
+#sql interview question(optional): https://www.javatpoint.com/sql-interview-questions
 
 
 #top 65 sql interview que: https://www.youtube.com/watch?v=-WEpWH1NHGU&t=240s
