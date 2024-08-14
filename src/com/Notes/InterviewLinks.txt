@@ -20,10 +20,10 @@
 #sql interview question: https://www.interviewbit.com/sql-interview-questions/
 #sql interview question(optional): https://www.javatpoint.com/sql-interview-questions
 
-#spring boot: https://www.interviewbit.com/spring-boot-interview-questions/
-#spring boot: https://www.javatpoint.com/spring-boot-interview-questions
 #5 Years Experience spring boot: https://www.javaguides.net/2018/11/spring-boot-interview-questions-and-answers.html
 #35+14questions spring boot: https://www.geeksforgeeks.org/spring-boot-interview-questions-and-answers/#advanced-spring-boot-interview-questions
+#spring boot(optional): https://www.interviewbit.com/spring-boot-interview-questions/
+#spring boot(optional): https://www.javatpoint.com/spring-boot-interview-questions
 #springframework(optional): https://www.javatpoint.com/spring-interview-questions
 #springframework(optional): https://www.interviewbit.com/spring-interview-questions/
 
