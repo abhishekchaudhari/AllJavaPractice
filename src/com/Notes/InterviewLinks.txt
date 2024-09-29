@@ -30,6 +30,8 @@
 #springframework(optional): https://www.interviewbit.com/spring-interview-questions/
 
 #30 Java Design Patterns Q&A : https://www.geeksforgeeks.org/top-30-java-design-patterns-interview-question/
+#25 Low level system design Q&A : https://www.geeksforgeeks.org/top-low-level-system-designlld-interview-questions-2024/
+#SOLID principles theory : https://www.interviewbit.com/blog/solid-principles-java/
 
 
 
