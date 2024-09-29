@@ -11,6 +11,8 @@
 #sql interview questions: https://www.youtube.com/watch?v=pKFo8Mqp-cU
 #sql theory and practical que: https://www.youtube.com/watch?v=L-URbfgxBMQ
 
+
+##########################################################################################
 #Sites
 #60+ Java 8 Interview Questions And Answers: https://javaconceptoftheday.com/java-8-interview-questions-and-answers/
 #70+ java collection: https://javaconceptoftheday.com/java-collections-interview-questions-with-answers/
@@ -27,6 +29,7 @@
 #springframework(optional): https://www.javatpoint.com/spring-interview-questions
 #springframework(optional): https://www.interviewbit.com/spring-interview-questions/
 
+#30 Java Design Patterns Q&A : https://www.geeksforgeeks.org/top-30-java-design-patterns-interview-question/
 
 
 
