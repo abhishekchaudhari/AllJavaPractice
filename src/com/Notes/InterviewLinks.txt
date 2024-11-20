@@ -20,14 +20,10 @@
 #400+ java interview que: https://javaconceptoftheday.com/java-interview-questions-and-answers/
 
 #sql interview question: https://www.interviewbit.com/sql-interview-questions/
-#sql interview question(optional): https://www.javatpoint.com/sql-interview-questions
+
 
 #5 Years Experience spring boot: https://www.javaguides.net/2018/11/spring-boot-interview-questions-and-answers.html
 #35+14questions spring boot: https://www.geeksforgeeks.org/spring-boot-interview-questions-and-answers/interview-questions
-#spring boot(optional): https://www.interviewbit.com/spring-boot-interview-questions/
-#spring boot(optional): https://www.javatpoint.com/spring-boot-interview-questions
-#springframework(optional): https://www.javatpoint.com/spring-interview-questions
-#springframework(optional): https://www.interviewbit.com/spring-interview-questions/
 
 #30 Java Design Patterns Q&A : https://www.geeksforgeeks.org/top-30-java-design-patterns-interview-question/
 #25 Low level system design Q&A : https://www.geeksforgeeks.org/top-low-level-system-designlld-interview-questions-2024/
@@ -35,7 +31,11 @@
 
 
 
-
+#sql interview question(optional): https://www.javatpoint.com/sql-interview-questions
+#spring boot(optional): https://www.interviewbit.com/spring-boot-interview-questions/
+#spring boot(optional): https://www.javatpoint.com/spring-boot-interview-questions
+#springframework(optional): https://www.javatpoint.com/spring-interview-questions
+#springframework(optional): https://www.interviewbit.com/spring-interview-questions/
 
 
 
