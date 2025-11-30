@@ -18,6 +18,7 @@
 #70+ java collection: https://javaconceptoftheday.com/java-collections-interview-questions-with-answers/
 #core java interview que(VeryGoodSource): https://www.interviewbit.com/java-interview-questions/
 #400+ java interview que: https://javaconceptoftheday.com/java-interview-questions-and-answers/
+#43 kafka interview questions: https://www.google.com/amp/s/www.interviewbit.com/kafka-interview-questions/amp/
 
 #sql interview question: https://www.interviewbit.com/sql-interview-questions/
 
